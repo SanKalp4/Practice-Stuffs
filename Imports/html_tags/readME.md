@@ -1,3 +1,5 @@
+
+```
 # Step 1: Define a function to process each HTML tag according to its meaning
 def process_a(tag):
     # Process <a> tags as links
